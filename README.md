@@ -1,5 +1,4 @@
 # MS-cryptocurrency
-Task fo Mathematical Software
+Zadaća iz kolegija Matematički softver.
 
-
-Potrebno instalirati rsa.
+Commitovi su dosta loše dokumentirani.
